@@ -14,7 +14,6 @@ This is a **workshop planning repo**. It is used to organise, develop, and refin
 | `CLAUDE.md` | Project-level instructions for Claude Code when working in this repo. |
 | `AGENDA.md` | The cleaned-up workshop agenda with rough timings for all 3 days. This is the primary deliverable being iterated on. |
 | `REQUIREMENTS.md` | Pre-workshop requirements for participants -- what to install and set up before arriving. |
-| `background/Monarch_ AI4Curation training (2026).pdf` | Original planning document with raw notes, brainstormed topics, participant lists, and requirements. Source of truth for what was discussed in planning meetings. |
 
 ## Workshop Structure (Summary)
 
