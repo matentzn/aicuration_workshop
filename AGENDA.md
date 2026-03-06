@@ -62,13 +62,4 @@
 
 ## Pre-Workshop Requirements
 
-1. **Get a Claude Code subscription** (Pro is sufficient) *[required]*
-2. **Install Claude Code** -- verify by typing `claude` in any terminal
-3. **Recommended installations:**
-   - VSCode
-   - GitHub Desktop
-   - Bootcamp repo cloned
-   - Mondo repo checked out (for practice with real tickets)
-   - Any repos of personal interest cloned
-4. **Watch the intro video** (TBD)
-5. **Optional:** 1:1 setup session with a developer before the bootcamp
+See [REQUIREMENTS.md](REQUIREMENTS.md) for the full list of what participants need to set up before the workshop.
