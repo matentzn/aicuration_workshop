@@ -21,10 +21,10 @@ Participants are expected to arrive at the bootcamp with a working system. Pleas
    - Download from [desktop.github.com](https://desktop.github.com/).
 
 5. **Clone the bootcamp repo**
-   - (Link TBD)
+   - https://github.com/matentzn/aicuration_workshop
 
 6. **Clone the Mondo repo**
-   - We will use real Mondo tickets for practice exercises.
+   - We MIGHT use real Mondo tickets for practice exercises.
 
 7. **Clone any repos of personal interest**
    - If you have specific curation repos you work with (e.g. VBO, ECTO, ZP), have them cloned and ready.
