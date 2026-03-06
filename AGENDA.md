@@ -1,7 +1,7 @@
 # AI4Curation Bootcamp - Agenda
 
 **Dates:** March 11-13, 2026
-**Time:** 7am-10am PT / 10am-1pm ET / 3pm-6pm UK (3 hours per day)
+**Time:** 3 hours per day
 **Audience:** Monarch curators (non-developers)
 **Format:** Hyperinteractive -- all participants share screens, no lurking
 
@@ -13,13 +13,14 @@
 
 | Time (approx.) | Topic | Format |
 |---|---|---|
-| 0:00 - 0:20 | **Welcome and introduction** -- goals, format, expectations | Presentation |
-| 0:20 - 0:40 | **Navigating the environment** -- VSCode, terminal, Claude Code basics | Demo |
-| 0:40 - 1:00 | **Settings and security** -- permissions, modes (editing, plan mode) | Demo |
-| 1:00 - 1:30 | **CLAUDE.md files** -- what they are, why they matter (project local, user global, project global) | Presentation + Demo |
-| 1:30 - 1:50 | **Exercise:** Customize your CLAUDE.md -- e.g. "tell me which branch I am on at the end of each reply" | Hands-on |
-| 1:50 - 2:00 | **Break** | |
-| 2:00 - 2:20 | **Working with tasks** -- structuring complex queries ("the Nico way"), basic GitHub usage with Claude | Demo |
+| 0:00 - 0:15 | **Welcome and introduction** -- goals, format, expectations | Presentation |
+| 0:15 - 0:30 | **Navigating the environment** -- VSCode, terminal, Claude Code basics | Demo |
+| 0:30 - 0:45 | **Settings and security** -- permissions, modes (editing, plan mode) | Demo |
+| 0:45 - 1:15 | **CLAUDE.md files** -- what they are, why they matter; local vs global CLAUDE.md, user-level settings, where personal config lives (~/.claude/) | Presentation + Demo |
+| 1:15 - 1:35 | **Organising your Claude setup** -- version-controlling your config, keeping settings and skills in sync across machines | Demo |
+| 1:35 - 1:45 | **Break** | |
+| 1:45 - 2:05 | **Exercise:** Set up your global CLAUDE.md; customise a project CLAUDE.md (e.g. "tell me which branch I am on at the end of each reply") | Hands-on |
+| 2:05 - 2:20 | **Working with tasks** -- structuring complex queries ("the Nico way"), basic GitHub usage with Claude | Demo |
 | 2:20 - 2:45 | **Exercise:** Pick a use case from attendees and work through it; OR add CLAUDE.md to a new repo (e.g. VBO, ECTO, ZP) to make it "Claude ready" | Hands-on |
 | 2:45 - 3:00 | **Discussion** -- Do's and don'ts, what gets pushed to the repo and what doesn't, Q&A | Discussion |
 
