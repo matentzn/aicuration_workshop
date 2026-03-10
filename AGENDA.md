@@ -33,10 +33,10 @@
 | Time (approx.) | Topic | Speaker | Format |
 |---|---|---|---|
 | 0:00 - 0:15 | **Recap Day 1** -- questions, quick review | Nico | Discussion |
-| 0:15 - 0:45 | **Planning complex tasks** -- breaking down curation work, getting organised, structuring queries for reliable results | Nico | Presentation + Demo |
-| 0:45 - 1:00 | **From plans to specifications** -- writing clear specs, how specifications lead into reusable skills | Nico | Demo |
-| 1:00 - 1:30 | **Teaching Claude reusable skills** -- overview of existing skills like AI4curation, superpowers etc; how to find and install | Harry | Presentation + Demo |
-| 1:30 - 1:55 | **Exercise:** Create a custom skill from a specification | Harry | Hands-on |
+| 0:15 - 0:45 | **Teaching Claude reusable skills** -- overview of existing skills like AI4curation, superpowers etc; how to find and install | Harry | Presentation + Demo |
+| 0:45 - 1:10 | **Exercise:** Create a custom skill | Harry / Nico | Hands-on |
+| 1:10 - 1:40 | **Planning complex tasks** -- breaking down curation work, getting organised, structuring queries for reliable results | Nico | Presentation + Demo |
+| 1:40 - 1:55 | **From plans to specifications** -- writing clear specs, how specifications lead into reusable skills | Nico | Demo |
 | 1:55 - 2:10 | **Break** | | |
 | 2:10 - 2:40 | **Exercise:** Work on attendees' use cases with skills | Nico | Hands-on |
 | 2:40 - 3:00 | **Discussion** -- SOPs for Monarch: updating skills, creating/sharing new skills, where skills should live (project repo? Monarch repo? personal repo?), evaluation/review process | Nico | Discussion |
