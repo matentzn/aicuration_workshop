@@ -45,18 +45,15 @@
 
 ## Day 3: Advanced Workflows (3 hrs)
 
-**Theme:** Applying Claude Code to real curation tasks (TBD based on attendees' requests)
+**Theme:** Applying Claude Code to real curation tasks
 
 | Time (approx.) | Topic | Speaker | Format |
 |---|---|---|---|
-| 0:00 - 0:15 | **Recap Day 2** -- questions, quick review | Nico | Discussion |
-| 0:15 - 0:45 | **Complex curation workflows** -- mapping review/creation, working with spreadsheets, Google Docs vs Claude Code | Nico | Demo + Hands-on |
-| 0:45 - 1:00 | **Exercise:** Apply curation workflows to a real task | Nico | Hands-on |
-| 1:00 - 1:30 | **Live demo: `dismech` curation** -- a highly advanced Claude-powered curation process | Kevin | Live demo |
-| 1:30 - 1:55 | **Output validation for curation** -- using LinkML reference validator and term validator to ensure curation quality | Kevin | Demo + Discussion |
-| 1:55 - 2:10 | **Break** | | |
-| 2:10 - 2:40 | **Exercise:** Work on attendee use cases (e.g. BDC spreadsheets, ICD mappings in Mondo, VBO foundation stocks) | Nico | Hands-on |
-| 2:40 - 3:00 | **Wrap-up** -- lessons learned, next steps, how to stay efficient with AI, open Q&A | Nico | Discussion |
+| 0:00 - 1:00 | **Recap and deep dive** -- revisiting key concepts, tackling complex problems, custom skills; building a mental model for co-solving problems with agents; curator problems | Nico | Discussion + Demo |
+| 1:00 - 1:45 | **Intro to `dismech` curation** -- a sophisticated agentic curation pipeline as a real-world example | Kevin | Presentation + Demo |
+| 1:45 - 2:00 | **Break** | | |
+| 2:00 - 2:30 | **Advanced curation validation** -- using LinkML reference validator and LinkML term validator to ensure curation quality | Kevin | Demo + Discussion |
+| 2:30 - 3:00 | **Open questions** -- Q&A, attendee use cases, next steps | Nico | Discussion |
 
 ---
 
